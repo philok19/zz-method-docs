@@ -1,12 +1,12 @@
 export default {
   "index": "Introduction",
   "about": {
-    "title": "About",
+    "title": "À propos",
     "type": "page"
   },
-  "tutorial": "ZZ Tutorial",
-  "improvement-guide": "How to Improve",
-  "example-solves": "ZZ Example Solve Library",
+  "tutorial": "Tutoriel de ZZ",
+  "improvement-guide": "Comment s'améliorer avec ZZ",
+  "example-solves": "Bibliothèque de résolutions avec ZZ",
   "blog": {
     "title": "Blog",
     "type": "page",

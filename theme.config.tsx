@@ -35,7 +35,7 @@ const config: DocsThemeConfig = {
   // },
   i18n: [
     { locale: 'en', name: 'English' },
-    // { locale: 'fr', name: 'Français' },
+    { locale: 'fr', name: 'Français' },
     // { locale: 'he', name: 'עִברִית', direction: 'rtl' },
     // { locale: 'zh', name: '中文' },
   ],
