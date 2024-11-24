@@ -1,5 +1,5 @@
 export default {
-  "eocross": "Improve EOCross",
-  "zzf2l": "Improve ZZF2L",
-  "ll": "Improve Last Layer"
+  "eocross": "Améliorer son EOCross",
+  "zzf2l": "Améliorer son ZZF2L",
+  "ll": "Améliorer sa Last Layer"
 }

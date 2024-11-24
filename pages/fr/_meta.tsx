@@ -4,9 +4,9 @@ export default {
     "title": "À propos",
     "type": "page"
   },
-  "tutorial": "Tutoriel de ZZ",
-  "improvement-guide": "Comment s'améliorer avec ZZ",
-  "example-solves": "Bibliothèque de résolutions avec ZZ",
+  "tutorial": "Apprendre ZZ",
+  "improvement-guide": "S'améliorer avec ZZ",
+  "example-solves": "Exemples de résolutions avec ZZ",
   "blog": {
     "title": "Blog",
     "type": "page",
